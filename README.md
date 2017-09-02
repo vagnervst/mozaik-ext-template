@@ -1,0 +1,1 @@
+# Mozaïk Extension Template
